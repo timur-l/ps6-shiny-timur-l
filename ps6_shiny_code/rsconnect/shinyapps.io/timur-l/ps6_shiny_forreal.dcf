@@ -1,0 +1,13 @@
+name: ps6_shiny_forreal
+title: ps6_shiny_forreal
+username:
+account: timur-l
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8497887
+bundleId: 6924859
+url: https://timur-l.shinyapps.io/ps6_shiny_forreal/
+when: 1678173455.11533
+lastSyncTime: 1678173455.11534
+asMultiple: FALSE
+asStatic: FALSE
